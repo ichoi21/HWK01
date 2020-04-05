@@ -27,12 +27,13 @@ THEN I find a concise, descriptive title
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
 ## History
--README was revised to provide a narrative on work changed
--index.html was revised to minimize redundant call outs. 
--style.css was revised to minimize lines consolidating codes to simplify call outs. 
+* README was revised to provide a narrative on work changed
+* index.html was revised to minimize redundant call outs. 
+* style.css was revised to minimize lines consolidating codes to simplify call outs. 
 
-Meta code was generated to enable flexible display with screens. 
-Names were changed to navigate the html file easier. 
-ID was added to ensure hyperlinks works to direct to the proper section. 
-Texts were aligned to aesthetically look more organgized. 
-css inputs were reordered to follow section sequentially.
+- Meta code was generated to enable flexible display with screens. 
+- Names were changed to navigate the html file easier. 
+- ID was added to ensure hyperlinks works to direct to the proper section. 
+- Texts were aligned to aesthetically look more organgized. 
+- CSS inputs were reordered to follow section sequentially. 
+- CSS codes were consolidated to reduce lines to simplify. Codes that were the same was generalized and   called out from its mother bracket to make the same affects. 
