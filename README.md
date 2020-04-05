@@ -25,3 +25,12 @@ THEN I find a concise, descriptive title
 * The URL of the deployed application.
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+
+## History
+-README was revised to provide a narrative on work changed
+-index.html was revised to minimize redundant call outs. 
+-style.css was revised to minimize lines consolidating codes to simplify call outs. 
+
+Meta code was generated to enable flexible display with screens. 
+names were changed to navigate the html file easier. 
+Texts were aligned to aesthetically look more organgized. 
