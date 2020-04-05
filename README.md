@@ -32,5 +32,7 @@ THEN I find a concise, descriptive title
 -style.css was revised to minimize lines consolidating codes to simplify call outs. 
 
 Meta code was generated to enable flexible display with screens. 
-names were changed to navigate the html file easier. 
+Names were changed to navigate the html file easier. 
+ID was added to ensure hyperlinks works to direct to the proper section. 
 Texts were aligned to aesthetically look more organgized. 
+css inputs were reordered to follow section sequentially.
